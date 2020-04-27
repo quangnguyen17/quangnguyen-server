@@ -1,0 +1,166 @@
+{
+  "header": {
+    "name": "QUANG NGUYEN",
+    "subtitle": "Software Developer (iOS & Web)"
+  },
+  "projects": [
+    {
+      "name": "Doogy!",
+      "status": "Live",
+      "categories": ["social", "pictures", "doc pics"],
+      "date": "(February 2020)",
+      "desc": "A place where dog enthusiasts can be who they are and find thousands of dog pictures being fetched from a public API in which hosts one of the biggest collections of open source dog pictures.",
+      "mics": [
+        "API: https://dog.ceo/dog-api/",
+        "Technologies: HTML5, CSS3, jQuery & Javascript, AJAX, Python & Django.",
+        "Database: SQLite.",
+        "Deployment: GitHub & AWS."
+      ],
+      "links": {
+        "repo": "https://github.com/quangnguyen17/doogy_server",
+        "site": "http://13.52.102.43"
+      }
+    },
+    {
+      "name": "Lost&Found",
+      "status": "Live",
+      "categories": ["untils"],
+      "date": "(February 2020)",
+      "desc": "Designed & Built an in-house lost and found web app for students & instructors at Coding Dojo.",
+      "mics": [
+        "In collaboration with DojoAfterDark",
+        "Technologies: HTML5, CSS3, Bootstrap, jQuery, AJAX, Python, Django.",
+        "Database: SQLite.",
+        "Deployment: GitHub & AWS."
+      ],
+      "links": {
+        "repo": "https://github.com/quangnguyen17/lost-and-found",
+        "site": "http://lost.dojoafterdark.com"
+      }
+    },
+    {
+      "name": "Find Waldo!",
+      "status": "Live",
+      "categories": ["game"],
+      "date": "(January 2020)",
+      "desc": "An open-source project. Re-inventing the classic 'Find Waldo' game on the web.",
+      "mics": [
+        "Technologies: HTML5, CSS3 & Animations, Bootstrap, jQuery & Javascript.",
+        "Deployment: GitHub Pages."
+      ],
+      "links": {
+        "repo": "https://github.com/quangnguyen17/quangnguyen17.github.io",
+        "site": "https://quangnguyen17.github.io/find-waldo.html"
+      }
+    },
+    {
+      "name": "Kinh Thánh BD2011",
+      "status": "Live",
+      "categories": ["book"],
+      "date": "(June 2018 – July 2018)",
+      "desc": "A Bible App for iOS/iPadOS",
+      "mics": [
+        "Technologies: Swift, UIKit, Grand Central Dispatch (GCD).",
+        "Database: Core Data, Firebase (Realtime Database & Cloud Storage).",
+        "Deployment: App Store (through App Store Connect & Xcode)."
+      ],
+      "links": {
+        "repo": "https://github.com/quangnguyen17/kinh-thanh-bd2011",
+        "site": "https://apps.apple.com/us/app/kinh-th%C3%A1nh-bd2011/id1405782410"
+      }
+    },
+    {
+      "name": "The API Guy.",
+      "status": "Live",
+      "categories": ["utils", "dev tools"],
+      "date": "(March 2020)",
+      "desc": "A site for developers to scrape for all kind of APIs that exist out there, just through a simple search on The API Guy. site can show handful of results of matching APIs that you're looking for, or you can browse them by categories or execute some advanced searching.",
+      "mics": [
+        "Technologies: Javascript, Node (NPM), React.js & React Hooks, Axios.",
+        "Deployment: Firebase Hosting."
+      ],
+      "links": {
+        "repo": "https://the-api-guy.web.app/",
+        "site": "https://github.com/quangnguyen17/the-api-guy"
+      }
+    },
+    {
+      "name": "WannaBuy",
+      "status": "Under Development",
+      "categories": ["ecommerce", "buying", "selling", "business"],
+      "date": "(N/A)",
+      "desc": "(N/A)",
+      "mics": ["Technologies: (N/A)", "Deployment: (N/A)"],
+      "links": {
+        "repo": "https://github.com/faisalsrs/WannaBuy"
+      }
+    },
+    {
+      "name": "Community Resiliency App",
+      "status": "Under Development",
+      "categories": ["community", "resilience"],
+      "date": "(N/A)",
+      "desc": "(N/A)",
+      "mics": ["Technologies: (N/A)", "Deployment: (N/A)"],
+      "links": {
+        "repo": "https://github.com/thomassumstine/community_resiliency_app"
+      }
+    }
+  ],
+  "skills": {
+    "languages": ["Swift", "Javascript", "Python", "C#", "Java"],
+    "web": {
+      "frontEnd": [
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "jQuery",
+        "AJAX",
+        "LESS",
+        "React.js"
+      ],
+      "backEnd": ["Django", "Express.js", "Node.js"]
+    },
+    "ios": {
+      "mics": ["Auto Layout", "Grand Central Dispatch (GCD or libdispatch)"],
+      "frameworks": [
+        "UIKit",
+        "SwiftUI",
+        "Core ML",
+        "Vision",
+        "Core Location",
+        "Core Animation",
+        "MapKit"
+      ],
+      "databases": ["Core Data"]
+    },
+    "databases": [
+      "SQLite",
+      "MySQL",
+      "MongoDB",
+      "Firebase (Realtime Database & Cloud Firestore)"
+    ],
+    "deployment": [
+      "AWS EC2",
+      "App Store (through App Store Connect & Xcode)",
+      "Firebase Hosting"
+    ],
+    "versionControl": ["Git"],
+    "others": ["Visual Studio Code", "Xcode", "GitHub (used with Git)"]
+  },
+  "info": {
+    "about": {
+      "headline": "Software Developer",
+      "subheadline": "(Specialized in iOS & Full Stack Web)",
+      "desc": "Self-taught software developer based in Orange County, California, specialized in building and designing full-stack web apps and high-performance native apps for mobile devices. 2 years of experience in working with clients to develop and transform ideas into real-world applications that satisfy their needs."
+    },
+    "contact": {
+      "email": "wan15112001@gmail.com",
+      "github": "https://github.com/quangnguyen17",
+      "instagram": "https://www.instagram.com/quangd_nguyen",
+      "facebook": "https://www.facebook.com/profile.php?id=100023587177082",
+      "linkedin": "https://www.linkedin.com/in/quangnguyen2001",
+      "twitter": "https://twitter.com/Wangnguyen01"
+    }
+  }
+}
